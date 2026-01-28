@@ -13,7 +13,7 @@ Vintage Purple 预设 (Vintage Purple Preset)：一键开启“冷调紫”，�
 
 One-click "Cool Purple" tone for that nostalgic, moody atmosphere.
 
-0 元平替 (Save 670)：为你省下 670 元（够吃两顿火锅，或者买 10 箱排骨）。
+0 元平替 (Save 670)：为你省下 670 元（够吃两顿火锅，或者买 10 盒排骨）。
 
 Stop spending money on overpriced "Star" cameras. Save your cash for better things.
 
