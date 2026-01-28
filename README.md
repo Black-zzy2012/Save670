@@ -24,7 +24,7 @@ Drag & Drop support for files and folders, complete with classic orange date sta
 🚀 快速开始 | Quick Start
 下载 (Download)：去 Releases 下载打包好的 save.exe。
 
-Grab the Save670.exe from the Releases page.
+Grab the Save.exe from the Releases page.
 
 运行 (Run)：双击启动（若杀毒软件报毒请点允许，纯手工代码无毒）。
 
